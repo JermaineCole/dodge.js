@@ -22,10 +22,16 @@ h2
 
 #carlton
 {
-
+    
 }
 
 body
 {
     
 }
+
+.Dodge,.DodgeVert,.DodgeHor
+{
+    transition: all 0.2s ease-out; 
+}
+
